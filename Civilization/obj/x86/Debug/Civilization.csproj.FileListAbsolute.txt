@@ -1,0 +1,9 @@
+E:\Civilization\Civilization\bin\Debug\Civilization.exe
+E:\Civilization\Civilization\bin\Debug\Civilization.pdb
+E:\Civilization\Civilization\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Civilization\Civilization\obj\x86\Debug\Civilization.MainForm.resources
+E:\Civilization\Civilization\obj\x86\Debug\Civilization.Properties.Resources.resources
+E:\Civilization\Civilization\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Civilization\Civilization\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Civilization\Civilization\obj\x86\Debug\Civilization.exe
+E:\Civilization\Civilization\obj\x86\Debug\Civilization.pdb

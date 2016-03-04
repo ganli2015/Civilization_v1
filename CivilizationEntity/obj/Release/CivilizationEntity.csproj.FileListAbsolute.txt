@@ -1,0 +1,14 @@
+E:\Civilization\CivilizationEntity\bin\Release\CivilizationEntity.dll
+E:\Civilization\CivilizationEntity\bin\Release\CivilizationEntity.pdb
+E:\Civilization\CivilizationEntity\bin\Release\GameEntity.dll
+E:\Civilization\CivilizationEntity\bin\Release\GameEntity.pdb
+E:\Civilization\CivilizationEntity\obj\Release\ResolveAssemblyReference.cache
+E:\Civilization\CivilizationEntity\obj\Release\CivilizationEntity.dll
+E:\Civilization\CivilizationEntity\obj\Release\CivilizationEntity.pdb
+D:\Civilization\CivilizationEntity\bin\Release\CivilizationEntity.dll
+D:\Civilization\CivilizationEntity\bin\Release\CivilizationEntity.pdb
+D:\Civilization\CivilizationEntity\bin\Release\GameEntity.dll
+D:\Civilization\CivilizationEntity\bin\Release\GameEntity.pdb
+D:\Civilization\CivilizationEntity\obj\Release\ResolveAssemblyReference.cache
+D:\Civilization\CivilizationEntity\obj\Release\CivilizationEntity.dll
+D:\Civilization\CivilizationEntity\obj\Release\CivilizationEntity.pdb

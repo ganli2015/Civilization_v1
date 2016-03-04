@@ -1,0 +1,10 @@
+E:\Civilization\GameEntity\bin\Debug\GameEntity.dll
+E:\Civilization\GameEntity\bin\Debug\GameEntity.pdb
+E:\Civilization\GameEntity\obj\Debug\GameEntity.dll
+E:\Civilization\GameEntity\obj\Debug\GameEntity.pdb
+D:\Civilization\GameEntity\bin\Debug\GameEntity.dll
+D:\Civilization\GameEntity\bin\Debug\GameEntity.pdb
+D:\Civilization\GameEntity\obj\Debug\ResolveAssemblyReference.cache
+D:\Civilization\GameEntity\obj\Debug\GameEntity.dll
+D:\Civilization\GameEntity\obj\Debug\GameEntity.pdb
+E:\Civilization\GameEntity\obj\Debug\GameEntity.csprojResolveAssemblyReference.cache
